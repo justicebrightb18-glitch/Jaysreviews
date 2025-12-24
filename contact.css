@@ -6,9 +6,9 @@ body{background-color:#FFDAB9;}
 h1{text-align:center;}
 
 
-input{background-color:white;border-radius:15px;}
+input{background-color:white;border-radius:15px;width:350px;height:40px;}
 textarea{background-color:white;}
 form {margin-left:10px;}
 button {background-color:white:}
-@media{input{width:100%;height:auto;}}
+
 
