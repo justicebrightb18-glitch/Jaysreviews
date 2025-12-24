@@ -1,13 +1,14 @@
-*{list-style:none;margin:0;padding:0;box-sizing:border-box; background-color:#FFDAB9;}
+*{list-style:none;margin:0;padding:0;box-sizing:border-box;}
 /* This is for the HTML body */
 
-
+body{background-color:#FFDAB9;}
 .column{position:absolute;top:250px;}
 h1{text-align:center;}
 
 
-input{background-color:white;border-radius:15px; width:350px;height:40px;}
+input{background-color:white;border-radius:15px;}
 textarea{background-color:white;}
 form {margin-left:60px;}
 button {background-color:white:}
+@media{input{width:100%;height:auto;}}
 
